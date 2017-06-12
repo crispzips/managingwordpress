@@ -11,7 +11,12 @@ This tutorial will help you navigate the Wordpress user interface so that you ca
 
 ## Table of Contents
 
+* [About](#about)
+* [Getting Started](#getting-started)
+* [The Administrator View](#the-administrator-view)
+
 ## About
+
 Last Updated June 2017
 Created by [Paul Vieth](http://paulkelleyvieth.org)
 University of Oklahoma Libraries :: Digital Scholarship Lab
