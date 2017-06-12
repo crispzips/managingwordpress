@@ -25,7 +25,7 @@ University of Oklahoma Libraries :: Digital Scholarship Lab
 
 This tutorial assumes you have already registered with WordPress and generated a site, or had someone help you generate your first site, and now the reins are in your hands. If you haven't done so, there are lots of [great tutorials](https://www.siteground.com/tutorials/wordpress/wordpress-installation.htm) to help you with this process.
 
-## The Administrator View
+## The Admin View
 
 Once you have a WordPress account and site, you can access the administive view by appending "/admin" to the end of your site's url.
 * For example: "[yourwebsite.wordpress.com]/admin"
@@ -70,7 +70,13 @@ After you log in, you will see your site, with the administrative interface laid
 
 ** The great thing about the "Customize" interface is that it allows you to preview the changes you're making in real time, so you can tweak your site with precision and awareness.
 
-![wordpress customize interface](/images/wordpress02.png)
+![wordpress tutorial customize interface](/images/wordpress02.PNG)
+
+* The comments tab (speech bubble icon) allows you to view and manage comments to your site
+  * the number beside the speech bubble icon is an alert for new icons
+  * you can approve, delete, search for, or mark icons as spam
+
+![wordpress tutorial comments interface manager](/images/wordpress03.png)
   
   
   
