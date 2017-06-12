@@ -76,7 +76,23 @@ After you log in, you will see your site, with the administrative interface laid
   * the number beside the speech bubble icon is an alert for new icons
   * you can approve, delete, search for, or mark icons as spam
 
-![wordpress tutorial comments interface manager](/images/wordpress03.png)
+![wordpress tutorial comments interface manager](/images/wordpress03.PNG)
+
+* The "New" tab (+ icon) allows you to quickly and conveniently add a new:
+  * post
+  * media file
+  * link
+    * including its advanced metadata relationships
+  * page
+  * or site user
+* The "Edit Page" tab (pencil icon) allows you to edit the page you're currently on
+  * You can edit pages by navigating to them using menus and then clicking this "Edit Page" button, or by going to the "Pages" tab in the Dashboard
+* The right-most button in the Admin interface is the "Live Editor"
+  * It is a condensed form of the page editor (the tab to the left of it) that, like the "Customize" interface, allows you to see the changes you're making in real time
+  
+![wordpress tutorial live-editor live editor interface view dashboard](/images/wordpress04.PNG)
+
+
   
   
   
