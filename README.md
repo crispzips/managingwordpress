@@ -1,5 +1,5 @@
 # Maintaining Your WordPress Site with [SiteOrigin Page Builder](https://siteorigin.com/page-builder/)
-The WordPress necessities, for everyone
+## The WordPress necessities, for everyone
 
 [WordPress](https://wordpress.org/) is an [open source](https://en.wikipedia.org/wiki/Open-source_model) [content management system (CMS)](https://en.wikipedia.org/wiki/Content_management_system) and online publishing platform.
 
@@ -13,7 +13,8 @@ This tutorial will help you navigate the WordPress user interface so that you ca
 
 * [About](#about)
 * [Getting Started](#getting-started)
-* [The Administrator View](#the-administrator-view)
+* [The Administrator View](#the-admin-view)
+* [SiteOrigin Page Builder](#siteorigin-page-builder)
 
 ## About
 
@@ -91,6 +92,20 @@ After you log in, you will see your site, with the administrative interface laid
   * It is a condensed form of the page editor (the tab to the left of it) that, like the "Customize" interface, allows you to see the changes you're making in real time
   
 ![wordpress tutorial live-editor live editor interface view dashboard](/images/wordpress04.PNG)
+
+## SiteOrigin Page Builder
+
+This tutorial is concerned with the SiteOrigin "Page Builder" and "Widget Bundle" plugins. If you do not have these plugins installed, do so by:
+
+* going to your WordPress Dashboard
+* click "Plugins" from the menu on the left of the screen
+* click "Add New" under the "Plugins" menu item, or the "Add New" button next to the "Plugins" page header
+
+![wordpress tutorial plugin menu add new](/images/wordpress05.PNG)
+
+
+
+
 
 
   
