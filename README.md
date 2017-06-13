@@ -121,7 +121,7 @@ You'll see the basic "New Page" editor where you can add media or text. At the t
 
 * Click the "Page Builder" tab
 
-![wordpress siteorigin tutorial page builder](/images/wordpress7.PNG)
+![wordpress siteorigin tutorial page builder](/images/wordpress07.PNG)
 
 
 
