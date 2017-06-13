@@ -95,6 +95,8 @@ After you log in, you will see your site, with the administrative interface laid
 
 ## SiteOrigin Page Builder
 
+### Installing SiteOrigin Plugins
+
 This tutorial is concerned with the SiteOrigin "Page Builder" and "Widget Bundle" plugins. If you do not have these plugins installed, do so by:
 
 * going to your WordPress Dashboard
@@ -103,6 +105,13 @@ This tutorial is concerned with the SiteOrigin "Page Builder" and "Widget Bundle
 
 ![wordpress tutorial plugin menu add new](/images/wordpress05.PNG)
 
+In the top-right corner of the screen, in the "search plugins..." bar, search "siteorigin."
+
+The first two results will be "Page Building by SiteOrigin" and "SiteOrigin Widgets Bundle."
+
+Install both of them with the "Install Now" button in the top-right corner of each plugin tile.
+
+![wordpress tutorial install plugin](/images/wordpress06.PNG)
 
 
 
