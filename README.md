@@ -107,13 +107,21 @@ This tutorial is concerned with the SiteOrigin "Page Builder" and "Widget Bundle
 
 In the top-right corner of the screen, in the "search plugins..." bar, search "siteorigin."
 
-The first two results will be "Page Building by SiteOrigin" and "SiteOrigin Widgets Bundle."
+The first two results will be "Page Builder by SiteOrigin" and "SiteOrigin Widgets Bundle."
 
 Install both of them with the "Install Now" button in the top-right corner of each plugin tile.
 
 ![wordpress tutorial install plugin](/images/wordpress06.PNG)
 
+### Page Layouts with SiteOrigin 
 
+Navigate to the editor of an existing page, or create a new page to play with your new SiteOrigin plugins.
+
+You'll see the basic "New Page" editor where you can add media or text. At the top right of the editor box, you will see three tabs: "Visual," "Text," and "Page Builder."
+
+* Click the "Page Builder" tab
+
+![wordpress siteorigin tutorial page builder](/images/wordpress7.PNG)
 
 
 
