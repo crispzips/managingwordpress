@@ -18,6 +18,7 @@ This tutorial will help you navigate the WordPress user interface so that you ca
   * [Installing SiteOrigin Plugins](#installing-siteorigin-plugins)
   * [Page Layouts with SiteOrigin](#page-layouts-with-siteorigin)
   * [SiteOrigin Content Widgets](#siteorigin-content-widgets)
+  * [SiteOrigin Editing Overview](#site-origin-editing-overview)
 
 ## About
 
@@ -198,3 +199,23 @@ It really helps to have your site layout in place before you go throwing content
 
 >![wordpress siteorigin tutorial edit widget](/images/wordpress14.png)
   
+From the window that opens (below), you can:
+* choose/change the image
+* change the image display size
+* alignment
+* title
+* Alt text
+  * **this is important because it's what search engines prowl for, and what is read to the visually impaired as they auditorily consume your site**
+* choose/change the image's destination URL
+  * this will turn your image into a link (to another part of your site or an external site)
+* **lots of other style and formatting configurations
+
+* *The same basic process applies no matter what type of content you're adding*
+  * *click "Add Widget"*
+  * *select the widget appropriate for the type of content you're displaying*
+  * *arrange where in your layout you want the new content to be generated*
+  * *use the edit widget button to select and configure the content and its display properties*
+  
+### SiteOrigin Editing Overview
+
+
