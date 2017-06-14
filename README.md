@@ -40,7 +40,7 @@ If you are not automatically logged-in, you will be asked to do so at this point
 
 After you log in, you will see your site, with the administrative interface laid on top, like this:
 
-![wordpress tutorial administrative view interface menu dashboard](/images/wordpress01.png)
+>![wordpress tutorial administrative view interface menu dashboard](/images/wordpress01.png)
 
 **For ease of navigation, Wordpress has several redunancies built in. There are multiple ways to perform many of the operations, multiple buttons to get to the same place. Don't be confused by these reduncancies. For example the site theme, widgets, and menus can be adjusted through the "Customize" interface, or they can be accessed from the dropdown menu labeled with your site's title, or they can be managed from the appearance section of the dashboard -- all perform the same functions, it's just a matter of personal preference and accessibility.**
 
@@ -74,13 +74,13 @@ After you log in, you will see your site, with the administrative interface laid
 
 ** The great thing about the "Customize" interface is that it allows you to preview the changes you're making in real time, so you can tweak your site with precision and awareness.
 
-![wordpress tutorial customize interface](/images/wordpress02.PNG)
+>![wordpress tutorial customize interface](/images/wordpress02.PNG)
 
 * The comments tab (speech bubble icon) allows you to view and manage comments to your site
   * the number beside the speech bubble icon is an alert for new icons
   * you can approve, delete, search for, or mark icons as spam
 
-![wordpress tutorial comments interface manager](/images/wordpress03.PNG)
+>![wordpress tutorial comments interface manager](/images/wordpress03.PNG)
 
 * The "New" tab (+ icon) allows you to quickly and conveniently add a new:
   * post
@@ -94,7 +94,7 @@ After you log in, you will see your site, with the administrative interface laid
 * The right-most button in the Admin interface is the "Live Editor"
   * It is a condensed form of the page editor (the tab to the left of it) that, like the "Customize" interface, allows you to see the changes you're making in real time
   
-![wordpress tutorial live-editor live editor interface view dashboard](/images/wordpress04.PNG)
+>![wordpress tutorial live-editor live editor interface view dashboard](/images/wordpress04.PNG)
 
 ## SiteOrigin Page Builder
 
@@ -106,7 +106,7 @@ This tutorial is concerned with the SiteOrigin "Page Builder" and "Widget Bundle
 * click "Plugins" from the menu on the left of the screen
 * click "Add New" under the "Plugins" menu item, or the "Add New" button next to the "Plugins" page header
 
-![wordpress tutorial plugin menu add new](/images/wordpress05.PNG)
+>![wordpress tutorial plugin menu add new](/images/wordpress05.PNG)
 
 In the top-right corner of the screen, in the "search plugins..." bar, search "siteorigin."
 
@@ -114,7 +114,7 @@ The first two results will be "Page Builder by SiteOrigin" and "SiteOrigin Widge
 
 Install both of them with the "Install Now" button in the top-right corner of each plugin tile.
 
-![wordpress tutorial install plugin](/images/wordpress06.PNG)
+>![wordpress tutorial install plugin](/images/wordpress06.PNG)
 
 ### Page Layouts with SiteOrigin 
 
@@ -124,7 +124,7 @@ You'll see the basic "New Page" editor where you can add media or text. At the t
 
 * Click the "Page Builder" tab
 
-![wordpress siteorigin tutorial page builder](/images/wordpress07.PNG)
+>![wordpress siteorigin tutorial page builder](/images/wordpress07.PNG)
 
 There are three main things you can do with the SiteOrigin plugins:
 * Use a prebuilt layout
@@ -137,11 +137,11 @@ We want to make our own custom layouts, though, so we can have the capacity to m
 
 * Click either of the "Add Row" buttons
 
-![wordpress siteorigin page builder tutorial add row](/images/wordpress08.PNG)
+>![wordpress siteorigin page builder tutorial add row](/images/wordpress08.PNG)
 
 This will open the "New Row" window
 
-![wordpress siteorigin page builder tutorial new row](/images/wordpress09.PNG)
+>![wordpress siteorigin page builder tutorial new row](/images/wordpress09.PNG)
 
 SiteOrigin Page Builder allows you to arrange your content using a grid system. That is, you will build your page one row at a time; for each row, you will be allowed to determine the number of columns in that row, as well as that row's stylistic properties within the parameters allowed by SiteOrigin Page Builder.
 
