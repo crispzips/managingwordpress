@@ -136,10 +136,37 @@ We want to make our own custom layouts, though, so we can have the capacity to m
 
 ![wordpress siteorigin page builder tutorial add row](/images/wordpress08.PNG)
 
+This will open the "New Row" window
 
+![wordpress siteorigin page builder tutorial new row](/images/wordpress09.PNG)
 
+SiteOrigin Page Builder allows you to arrange your content using a grid system. That is, you will build your page one row at a time; for each row, you will be allowed to determine the number of columns in that row, as well as that row's stylistic properties within the parameters allowed by SiteOrigin Page Builder.
+
+The "New Row" window allows you to:
+* set the number of columns (1-12)
+* set the relative widths of the columns
+  * either from a dropdown menu of preset ratios (including "the golden"!)
+  * or manually by hovering between the column previews (in the light blue) and clicking and dragging to the desired ratios
+* **[ADVANCED]** Change the style properties of the row
+  * Attributes
+    * assign the row/a cell an id/class to be referenced other places in code
+    * to manipulate the css properties for the row
+  * Layout
+    * margins
+    * padding
+    * screen-size response properties (how the layout changes when the page is viewed on a mobile device)
+  * Design
+    * background color/image and its properties
+    
+For example, the [Capra/Bailey Project homepage](http://caprabaileyproject.oucreate.com/) uses the SiteOrigin Page Builder (pay attention to the content pane below the menu).
   
-  
+The Capra/Bailey Project homepage is composed of one row of one column containing the site introduction text, then three rows of three columns each -- creating a gallery of images representing and linking to the various sections of the site.
+
+![wordpress siteorigin page builder tutorial caprabailey capra bailey project homepage](/images/wordpress10.PNG)
+
+This is what that same layout looks like in the SiteOrigin Page Builder editor:
+
+![wordpress siteorigin page builder tutorial caprabailey capra bailey project homepage editor](/images/wordpress11.PNG)
   
   
   
