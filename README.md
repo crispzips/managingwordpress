@@ -211,7 +211,7 @@ From the window that opens (below), you can:
 * **lots of other style and formatting configurations
 
 ---
-* * **The same basic process applies no matter what type of content you're adding** *
+* ***The same basic process applies no matter what type of content you're adding***
   * *click "Add Widget"*
   * *select the widget appropriate for the type of content you're displaying*
   * *arrange where in your layout you want the new content to be generated*
