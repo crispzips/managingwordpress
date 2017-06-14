@@ -77,8 +77,8 @@ After you log in, you will see your site, with the administrative interface laid
 >![wordpress tutorial customize interface](/images/wordpress02.PNG)
 
 * The comments tab (speech bubble icon) allows you to view and manage comments to your site
-  * the number beside the speech bubble icon is an alert for new icons
-  * you can approve, delete, search for, or mark icons as spam
+  * the number beside the speech bubble icon is an alert for new comments
+  * you can approve, delete, search for, or mark comments as spam
 
 >![wordpress tutorial comments interface manager](/images/wordpress03.PNG)
 
@@ -173,6 +173,11 @@ This is what that same layout looks like in the SiteOrigin Page Builder editor:
 
 ### SiteOrigin Content Widgets
 
+Now that you have a page structured using SiteOrigin Page Builder, you're ready to fill that structure with content. This is where the SiteOrigin widgets come in.
+
+**Below you'll find all of the widgets included in the SiteOrigin Widget Bundle. I believe the explanations provided for each widget take care of themselves, so we don't need to go into that, but I *really* encourage you to play around with these. Between the layouts you can create using SiteOrigin Page Builder, the stylistic settings that can be applied to each row and column, and the multitude of content types you can infuse into those stylized layouts, your ability to codelessly create beautiful, dynamic, and multimodal websites is greatly enhanced with the SiteOrigin plugins.**
+
+![wordpress siteorigin tutorial widgets](/images/wordpress12.PNG)
 
   
   
