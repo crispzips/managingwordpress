@@ -14,7 +14,7 @@ This tutorial will help you navigate the WordPress user interface so that you ca
 * [About](#about)
 * [Getting Started](#getting-started)
 * [The Administrator View](#the-admin-view)
-* [SiteOrigin Page Builder](#siteorigin-page-builder)
+* [SiteOrigin Tools](#siteorigin-tools)
   * [Installing SiteOrigin Plugins](#installing-siteorigin-plugins)
   * [Page Layouts with SiteOrigin](#page-layouts-with-siteorigin)
   * [SiteOrigin Content Widgets](#siteorigin-content-widgets)
@@ -96,7 +96,7 @@ After you log in, you will see your site, with the administrative interface laid
   
 >![wordpress tutorial live-editor live editor interface view dashboard](/images/wordpress04.PNG)
 
-## SiteOrigin Page Builder
+## SiteOrigin Tools
 
 ### Installing SiteOrigin Plugins
 
