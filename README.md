@@ -27,7 +27,7 @@ University of Oklahoma Libraries :: Digital Scholarship Lab
 
 ## Getting Started
 
-This tutorial assumes you have already registered with WordPress and generated a site, or had someone help you generate your first site, and now the reins are in your hands. If you haven't done so, there are lots of [great tutorials](https://www.siteground.com/tutorials/wordpress/wordpress-installation.htm) to help you with this process.
+This tutorial assumes you have already registered with WordPress and generated a site, or had someone help you generate your first site, and now the reins are in your hands. If you haven't done so, there are lots of [great tutorials](https://www.siteground.com/tutorials/wordpress/wordpress-installation.htm) to help you with that process.
 
 ## The Admin View
 
@@ -72,7 +72,7 @@ After you log in, you will see your site, with the administrative interface laid
   * "Additional CSS"
     * for customizing your site using [cascading style sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) commands
 
-** The great thing about the "Customize" interface is that it allows you to preview the changes you're making in real time, so you can tweak your site with precision and awareness.
+**The great thing about the "Customize" interface is that it allows you to preview the changes you're making in real time, so you can tweak your site with precision and awareness.**
 
 >![wordpress tutorial customize interface](/images/wordpress02.PNG)
 
