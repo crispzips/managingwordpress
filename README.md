@@ -179,7 +179,7 @@ Now that you have a page structured using SiteOrigin Page Builder, you're ready 
 
 ![wordpress siteorigin tutorial widgets](/images/wordpress12.PNG)
 
-  
+Let's practice adding a widget so we can solidify the process. 
   
   
   
