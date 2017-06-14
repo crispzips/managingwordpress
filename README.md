@@ -1,4 +1,4 @@
-# Maintaining Your WordPress Site with [SiteOrigin Page Builder](https://siteorigin.com/page-builder/)
+# Maintaining Your WordPress Site with [SiteOrigin Page Builder](https://siteorigin.com/page-builder/) and [SiteOrigin Widgets Bundle](https://siteorigin.com/widgets-bundle/)
 ## The WordPress necessities, for everyone
 
 [WordPress](https://wordpress.org/) is an [open source](https://en.wikipedia.org/wiki/Open-source_model) [content management system (CMS)](https://en.wikipedia.org/wiki/Content_management_system) and online publishing platform.
