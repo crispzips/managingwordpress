@@ -123,7 +123,12 @@ You'll see the basic "New Page" editor where you can add media or text. At the t
 
 ![wordpress siteorigin tutorial page builder](/images/wordpress07.PNG)
 
+There are three main things you can do with the SiteOrigin plugins:
+* Use a prebuilt layout
+* Design your own layout with the "Row" or "Add Row" (three horizontal bars icon) buttons.
+* Add widgets to your layout
 
+The prebuilt layouts handle themself. All you have to do is browse for one you like and populate it with widget-based content
 
   
   
