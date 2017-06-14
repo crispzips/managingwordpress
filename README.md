@@ -128,7 +128,15 @@ There are three main things you can do with the SiteOrigin plugins:
 * Design your own layout with the "Row" or "Add Row" (three horizontal bars icon) buttons.
 * Add widgets to your layout
 
-The prebuilt layouts handle themself. All you have to do is browse for one you like and populate it with widget-based content
+The prebuilt layouts handle themselves. All you have to do is browse for one you like and populate it with widget-based content.
+
+We want to make our own custom layouts, though, so we can have the capacity to mould our sites to our imaginations.
+
+* Click either of the "Add Row" buttons
+
+![wordpress siteorigin page builder tutorial add row](/images/wordpress08.PNG)
+
+
 
   
   
