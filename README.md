@@ -177,9 +177,24 @@ Now that you have a page structured using SiteOrigin Page Builder, you're ready 
 
 **Below you'll find all of the widgets included in the SiteOrigin Widget Bundle. I believe the explanations provided for each widget take care of themselves, so we don't need to go into that, but I *really* encourage you to play around with these. Between the layouts you can create using SiteOrigin Page Builder, the stylistic settings that can be applied to each row and column, and the multitude of content types you can infuse into those stylized layouts, your ability to codelessly create beautiful, dynamic, and multimodal websites is greatly enhanced with the SiteOrigin plugins.**
 
-![wordpress siteorigin tutorial widgets](/images/wordpress12.PNG)
+>![wordpress siteorigin tutorial widgets](/images/wordpress12.png)
 
 Let's practice adding a widget so we can solidify the process. 
   
+* Start by clicking the "Add Widget" button in the top-left of the editor pane
+
+>![wordpress siteorigin tutorial add widget](/images/wordpress13.PNG)
+
+You'll see the same list of widgets I showed you a moment ago.
+
+For the purposes of this tutorial, let's add an image to our page.
+
+* Select the "SiteOrigin Image" widget (one of the widgets with a blue gear icon)
+  * you can also use the factory-standard "Image" widget (grey gear icon), but I recommend the one from SiteOrigin
   
+It really helps to have your site layout in place before you go throwing content onto the page, but if you don't have a layout, any content widget you call to action will plop down onto your page into an automatically generated row automatically set to one column. It's okay if you haven't made a layout before throwing a "SiteOrigin Image" widget onto your page. You can always go back and edit these auto-generated rows to change its arrangement, alignment, number of columns, and aesthetic. 
+
+* When you add the image widget, it just creates a container for the image on your page, now you have to select the images and customize its property. Hover over the new container (The inside will turn from light grey to white, and "Edit," "Duplicate," and "Delete" buttons will appear in the top right corner of the container. Click "Edit."
+
+>![wordpress siteorigin tutorial edit widget](/images/wordpress14.png)
   
