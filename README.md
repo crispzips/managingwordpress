@@ -15,6 +15,9 @@ This tutorial will help you navigate the WordPress user interface so that you ca
 * [Getting Started](#getting-started)
 * [The Administrator View](#the-admin-view)
 * [SiteOrigin Page Builder](#siteorigin-page-builder)
+  * [Installing SiteOrigin Plugins](#installing-siteorigin-plugins)
+  * [Page Layouts with SiteOrigin](#page-layouts-with-siteorigin)
+  * [SiteOrigin Content Widgets](#siteorigin-content-widgets)
 
 ## About
 
@@ -162,13 +165,15 @@ For example, the [Capra/Bailey Project homepage](http://caprabaileyproject.oucre
   
 The Capra/Bailey Project homepage is composed of one row of one column containing the site introduction text, then three rows of three columns each -- creating a gallery of images representing and linking to the various sections of the site.
 
-![wordpress siteorigin page builder tutorial caprabailey capra bailey project homepage](/images/wordpress10.png)
+>![wordpress siteorigin page builder tutorial caprabailey capra bailey project homepage](/images/wordpress10.png)
 
 This is what that same layout looks like in the SiteOrigin Page Builder editor:
 
-![wordpress siteorigin page builder tutorial caprabailey capra bailey project homepage editor](/images/wordpress11.PNG)
-  
-  
+>![wordpress siteorigin page builder tutorial caprabailey capra bailey project homepage editor](/images/wordpress11.PNG)
+
+### SiteOrigin Content Widgets
+
+
   
   
   
