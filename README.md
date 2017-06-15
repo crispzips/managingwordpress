@@ -217,7 +217,7 @@ From the window that opens (below), you can:
   * this will turn your image into a link (to another part of your site or an external site)
 * **lots of other style and formatting configurations
 
->![wordpress siteorigin tutorial edit widget](/images/wordpress15.png)
+>![wordpress siteorigin tutorial edit widget](/images/wordpress15.PNG)
 
 ---
 * ***The same basic process applies no matter what type of content you're adding***
