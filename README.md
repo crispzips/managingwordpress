@@ -117,6 +117,8 @@ Install both of them with the "Install Now" button in the top-right corner of ea
 
 >![wordpress tutorial install plugin](/images/wordpress06.PNG)
 
+---
+
 ### Page Layouts with SiteOrigin 
 
 Navigate to the editor of an existing page, or create a new page to play with your new SiteOrigin plugins.
@@ -172,6 +174,8 @@ This is what that same layout looks like in the SiteOrigin Page Builder editor:
 
 >![wordpress siteorigin page builder tutorial caprabailey capra bailey project homepage editor](/images/wordpress11.PNG)
 
+---
+
 ### SiteOrigin Content Widgets
 
 Now that you have a page structured using SiteOrigin Page Builder, you're ready to fill that structure with content. This is where the SiteOrigin widgets come in.
@@ -217,6 +221,7 @@ From the window that opens (below), you can:
   * *arrange where in your layout you want the new content to be generated*
   * *use the edit widget button to select and configure the content and its display properties*
 ---
+
 ### SiteOrigin Editing Overview
 
 
