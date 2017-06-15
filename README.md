@@ -215,7 +215,7 @@ From the window that opens (below), you can:
   * **this is important because it's what search engines prowl for, and what is read to the visually impaired as they auditorily consume your site**
 * choose/change the image's destination URL
   * this will turn your image into a link (to another part of your site or an external site)
-* **lots of other style and formatting configurations
+* **lots of other style and formatting configurations**
 
 >![wordpress siteorigin tutorial edit widget](/images/wordpress15.PNG)
 
