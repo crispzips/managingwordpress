@@ -5,7 +5,7 @@
 
 While WordPress is certainly simpler and more intuitive than building sites from scratch using html/css/php, it still has its fair share of whizzbangs, doodads, and mumbojumbo to stymie your creative process.
 
-This tutorial will help you navigate the WordPress user interface so that you can harness its core functionality.
+This tutorial will help you navigate the WordPress user interface and augment it with SiteOrigin plugins so that you can harness its full functionality.
 
 [Here are some examples of what you can do with WordPress](https://wordpress.org/showcase/)
 
@@ -23,7 +23,9 @@ This tutorial will help you navigate the WordPress user interface so that you ca
 ## About
 
 Last Updated June 2017
+
 Created by [Paul Vieth](http://paulkelleyvieth.org)
+
 University of Oklahoma Libraries :: Digital Scholarship Lab
 
 ## Getting Started
@@ -32,8 +34,9 @@ This tutorial assumes you have already registered with WordPress and generated a
 
 ## The Admin View
 
-Once you have a WordPress account and site, you can access the administive view by appending "/admin" to the end of your site's url.
+Once you have a WordPress account and site, you can access the administive view by appending "/admin" to the end of your site's url,
 * For example: "[yourwebsite.wordpress.com]/admin"
+or by logging into WordPress and navigating to your site's dashboard.
 
 For this tutorial I'll be using the [Capra/Bailey Project](http://caprabaileyproject.oucreate.com) created by [Ben Keppel](http://history.ou.edu/ben-keppel) and [Tara Carlisle](https://libraries.ou.edu/users/tara-carlisle) at the University of Oklahoma. 
 
@@ -109,11 +112,11 @@ This tutorial is concerned with the SiteOrigin "Page Builder" and "Widget Bundle
 
 >![wordpress tutorial plugin menu add new](/images/wordpress05.PNG)
 
-In the top-right corner of the screen, in the "search plugins..." bar, search "siteorigin."
+* In the top-right corner of the screen, in the "search plugins..." bar, search "siteorigin."
 
 The first two results will be "Page Builder by SiteOrigin" and "SiteOrigin Widgets Bundle."
 
-Install both of them with the "Install Now" button in the top-right corner of each plugin tile.
+* Install both of them with the "Install Now" button in the top-right corner of each plugin tile.
 
 >![wordpress tutorial install plugin](/images/wordpress06.PNG)
 
@@ -155,7 +158,7 @@ The "New Row" window allows you to:
   * or manually by hovering between the column previews (in the light blue) and clicking and dragging to the desired ratios
 * **[ADVANCED]** Change the style properties of the row
   * Attributes
-    * assign the row/a cell an id/class to be referenced other places in code
+    * assign the row/cell an id/class to be referenced other places in code
     * to manipulate the css properties for the row
   * Layout
     * margins
@@ -199,7 +202,7 @@ For the purposes of this tutorial, let's add an image to our page.
   
 It really helps to have your site layout in place before you go throwing content onto the page, but if you don't have a layout, any content widget you call to action will plop down onto your page into an automatically generated row automatically set to one column. It's okay if you haven't made a layout before throwing a "SiteOrigin Image" widget onto your page. You can always go back and edit these auto-generated rows to change its arrangement, alignment, number of columns, and aesthetic. 
 
-* When you add the image widget, it just creates a container for the image on your page, now you have to select the images and customize its property. Hover over the new container (The inside will turn from light grey to white, and "Edit," "Duplicate," and "Delete" buttons will appear in the top right corner of the container. Click "Edit."
+* When you add the image widget, it just creates a container for the image on your page, now you have to select the images and customize their properties. Hover over the new container (The inside will turn from light grey to white, and "Edit," "Duplicate," and "Delete" buttons will appear in the top right corner of the container. Click "Edit."
 
 >![wordpress siteorigin tutorial edit widget](/images/wordpress14.png)
   
@@ -214,6 +217,8 @@ From the window that opens (below), you can:
   * this will turn your image into a link (to another part of your site or an external site)
 * **lots of other style and formatting configurations
 
+>![wordpress siteorigin tutorial edit widget](/images/wordpress15.png)
+
 ---
 * ***The same basic process applies no matter what type of content you're adding***
   * *click "Add Widget"*
@@ -226,4 +231,4 @@ From the window that opens (below), you can:
 
 Just to review, below you find all the functions you might need to perform to fully exploit the SiteOrigin Page Builder and Widgets plugins for WordPress. Don't get overwhelmed by the minefield of buttons. And remember, take you website building one step at a time -- you can always change or undo anything.
 
->![wordpress siteorigin page builder widget bundle tutorial user interface overview](/images/wordpress15.PNG)
+>![wordpress siteorigin page builder widget bundle tutorial user interface overview](/images/wordpress16.PNG)
