@@ -226,4 +226,4 @@ From the window that opens (below), you can:
 
 Just to review, below you find all the functions you might need to perform to fully exploit the SiteOrigin Page Builder and Widgets plugins for WordPress. Don't get overwhelmed by the minefield of buttons. And remember, take you website building one step at a time -- you can always change or undo anything.
 
->![wordpress siteorigin page builder widget bundle tutorial user interface overview](/images/wordpress15.png)
+>![wordpress siteorigin page builder widget bundle tutorial user interface overview](/images/wordpress15.PNG)
