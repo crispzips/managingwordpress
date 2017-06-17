@@ -172,7 +172,7 @@ When you click the "Add Media" button you'll see this window open:
     
 Let's add an image to practice.
 
-Here is an image from the [](Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) (free to use and modify!): [https://upload.wikimedia.org/wikipedia/commons/a/a7/Norman%2C_OK_USA_-_University_of_Oklahoma_-_Evans_Hall_%5E_George_Lynn_Cross_Monument_-_panoramio_%281%29.jpg)
+Here is an image from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) (free to use and modify!): [](https://upload.wikimedia.org/wikipedia/commons/a/a7/Norman%2C_OK_USA_-_University_of_Oklahoma_-_Evans_Hall_%5E_George_Lynn_Cross_Monument_-_panoramio_%281%29.jpg)
 
 * Copy the image URL
 * In the "Add Media" window (above), click "Insert from URL" (from the lefthand menu)
