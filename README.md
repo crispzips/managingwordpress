@@ -14,6 +14,7 @@ This tutorial will help you navigate the WordPress user interface and augment it
 * [About](#about)
 * [Getting Started](#getting-started)
 * [The Administrator View](#the-admin-view)
+* [Editing with Wordpress Factory Default](#editing-with-wordpress-factory-default)
 * [SiteOrigin Tools](#siteorigin-tools)
   * [Installing SiteOrigin Plugins](#installing-siteorigin-plugins)
   * [Page Layouts with SiteOrigin](#page-layouts-with-siteorigin)
@@ -27,10 +28,12 @@ Last Updated June 2017
 Created by [Paul Vieth](http://paulkelleyvieth.org)
 
 University of Oklahoma Libraries :: Digital Scholarship Lab
+---
 
 ## Getting Started
 
 This tutorial assumes you have already registered with WordPress and generated a site, or had someone help you generate your first site, and now the reins are in your hands. If you haven't done so, there are lots of [great tutorials](https://www.siteground.com/tutorials/wordpress/wordpress-installation.htm) to help you with that process.
+---
 
 ## The Admin View
 
@@ -99,12 +102,27 @@ After you log in, you will see your site, with the administrative interface laid
   * It is a condensed form of the page editor (the tab to the left of it) that, like the "Customize" interface, allows you to see the changes you're making in real time
   
 >![wordpress tutorial live-editor live editor interface view dashboard](/images/wordpress04.PNG)
+---
+
+## Editing with WordPress Factory Default
+
+* Navigate to the editor of an existing page, or create a new page to play with.
+
+You should see this:
+
+![wordpress tutorial factory default editor](/images/wordpress17.PNG)
+
+####**What You See Is What You Get.**
+
+
+
+---
 
 ## SiteOrigin Tools
 
 ### Installing SiteOrigin Plugins
 
-This tutorial is concerned with the SiteOrigin "Page Builder" and "Widget Bundle" plugins. If you do not have these plugins installed, do so by:
+This tutorial is primarily concerned with the SiteOrigin "Page Builder" and "Widget Bundle" plugins. If you do not have these plugins installed, do so by:
 
 * going to your WordPress Dashboard
 * click "Plugins" from the menu on the left of the screen
@@ -126,7 +144,7 @@ The first two results will be "Page Builder by SiteOrigin" and "SiteOrigin Widge
 
 Navigate to the editor of an existing page, or create a new page to play with your new SiteOrigin plugins.
 
-You'll see the basic "New Page" editor where you can add media or text. At the top right of the editor box, you will see three tabs: "Visual," "Text," and "Page Builder."
+You'll see the basic "New Page" editor where you can add media or text (the one we played with in the previous section). At the top right of the editor box, you will see three tabs: "Visual," "Text," and "Page Builder."
 
 * Click the "Page Builder" tab
 
