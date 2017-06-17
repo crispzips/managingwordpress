@@ -174,7 +174,7 @@ Let's add an image to practice.
 
 Here is an image from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) (free to use and modify!): [University of Oklahoma Campus Image](https://upload.wikimedia.org/wikipedia/commons/a/a7/Norman%2C_OK_USA_-_University_of_Oklahoma_-_Evans_Hall_%5E_George_Lynn_Cross_Monument_-_panoramio_%281%29.jpg)
 
-* Copy the image URL
+* Copy the image URL (right click the link above and click "Copy image address")
 * In the "Add Media" window (above), click "Insert from URL" (from the lefthand menu)
 * Paste the image URL into the appropriate box at the top of the window, you'll see a preview of the image and a set of image properties pop up, like this:
 
@@ -182,9 +182,9 @@ Here is an image from the [Wikimedia Commons](https://commons.wikimedia.org/wiki
 
 * From here you can:
   * Set a "Caption" for the image
-  * Set the "Alt Text" for the image. This is what search engines will evaluate and what will be read to the visually-impaired when they're on your site, so this is **very important**
+  * Set the "Alt Text" for the image. This is what search engines will look for and what will be read to visually-impaired persons when they're on your site, so this is **very important**
   * "Align" the image (left, center, right)
-  * Set the image to "Link to" and external URL, somewhere on your site, the source of the image, or nothing.
+  * Set the image to "Link to" an external URL, somewhere on your site, the source of the image, or nothing.
   
 When you've set the image's properties, click "Insert into Page" -- the blue button at the bottom-right of the window.
 
@@ -200,7 +200,7 @@ This will bring up a pop up window with a row of icons:
 * an "Edit" button (pencil icon)
 * a "Remove" button ("X" icon)
 
-If you click the "Edit" button (pencil icon), you can change all of the properties we discussed above, but you can also set some **[Advanced]** properties, including CSS classes for the image and its link, or, **usefully** you can select a box to "Open link in new tab."
+If you click the "Edit" button (pencil icon), you can change all of the properties we discussed above, but you can also set some **[Advanced]** properties, including CSS classes for the image and its link, or, **usefully**, you can select a box to "Open link in new tab."
 
 This covers the WordPress factory default editing functionality. WordPress is a powerful composition and publishing tool, but it *is* limited. In the next section we're going to augment the capability of WordPress with the SiteOrigin plugins, with which you'll begin to fully experience what a web content management system can do.
 
