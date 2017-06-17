@@ -1,5 +1,5 @@
-# Maintaining Your WordPress Site with [SiteOrigin Page Builder](https://siteorigin.com/page-builder/) and [SiteOrigin Widgets Bundle](https://siteorigin.com/widgets-bundle/)
-## The WordPress necessities, for everyone
+# Maintaining Your WordPress Site with [SiteOrigin Page Builder](https://siteorigin.com/page-builder/) and [SiteOrigin Widgets Bundle](https://siteorigin.com/widgets-bundle/) #
+## The WordPress necessities, for everyone ##
 
 [WordPress](https://wordpress.org/) is an [open source](https://en.wikipedia.org/wiki/Open-source_model) [content management system (CMS)](https://en.wikipedia.org/wiki/Content_management_system) and online publishing platform.
 
@@ -9,7 +9,7 @@ This tutorial will help you navigate the WordPress user interface and augment it
 
 [Here are some examples of what you can do with WordPress](https://wordpress.org/showcase/)
 
-## Table of Contents
+## Table of Contents ##
 
 * [About](#about)
 * [Getting Started](#getting-started)
@@ -21,7 +21,7 @@ This tutorial will help you navigate the WordPress user interface and augment it
   * [SiteOrigin Content Widgets](#siteorigin-content-widgets)
   * [SiteOrigin Editing Overview](#site-origin-editing-overview)
 
-## About
+## About ##
 
 Last Updated June 2017
 
@@ -30,12 +30,14 @@ Created by [Paul Vieth](http://paulkelleyvieth.org)
 University of Oklahoma Libraries :: Digital Scholarship Lab
 ---
 
-## Getting Started
+## Getting Started ##
+
+*A note on this tutorial: whenever quotes are used around terms, this signifies that the term used is the term used in the WordPress user interface, and the specific buttons and functions referred to will appear that way in WordPress, so keep an eye on those if you're having difficult locating a command, WordPress can be clustered and clumsy sometimes*
 
 This tutorial assumes you have already registered with WordPress and generated a site, or had someone help you generate your first site, and now the reins are in your hands. If you haven't done so, there are lots of [great tutorials](https://www.siteground.com/tutorials/wordpress/wordpress-installation.htm) to help you with that process.
 ---
 
-## The Admin View
+## The Admin View ##
 
 Once you have a WordPress account and site, you can access the administive view by appending "/admin" to the end of your site's url,
 * For example: "[yourwebsite.wordpress.com]/admin"
@@ -104,7 +106,7 @@ After you log in, you will see your site, with the administrative interface laid
 >![wordpress tutorial live-editor live editor interface view dashboard](/images/wordpress04.PNG)
 ---
 
-## Editing with WordPress Factory Default
+## Editing with WordPress Factory Default ##
 
 * Navigate to the editor of an existing page, or create a new page to play with.
 
@@ -112,18 +114,46 @@ You should see this:
 
 >![wordpress tutorial factory default editor](/images/wordpress17.PNG)
 
-####**[What You See Is What You Get (WYSIWYG)](https://en.wikipedia.org/wiki/WYSIWYG)**
+#### **[What You See Is What You Get (WYSIWYG)](https://en.wikipedia.org/wiki/WYSIWYG)** ####
 
 This means that everything you can do to a WordPress page is right before your eyes (until you augment its abilities with plugins, of course; more on this later).
 
-Let's study this above image 
+Let's study this above image.
+
+* At the top underneath "Add New Page," you can change the title of the page (mine is called "Test Page")
+* In the top-right you'll see the "Publish" window where you can:
+  * "Save Draft" to lock in your changes without publishing them to the web
+  * "Preview" the page to see what it will look like to your audience while you're making it, again, without having to actually put it out in the wild
+  * Change the page's status:
+    * "Draft"
+    * "Pending Review
+  * Change the page's visibility:
+    * "Public"
+    * "Password Protected"
+    * "Private"
+  * Change the page's publishing timeframe
+    * It can be published right away, or you can set it to publish at an exact moment in the future
+  * You can delete the page in the "Publish" window ("Move to Trash" in red)
+  * AND, **most importantly**, this is where you set your creation free with the blue "Publish" button
+* In the bottom-right you'll see the "Page Attributes" window (below the "Publish" window) where you can:
+  * assign a "Parent" to the page (this will make the page a sub-item to its parent so you can create an organizational hierarchy for your site)
+  * choose a template for the page 
+  * set the page order (of appearance relative to other pages)
+* **Now for the Important Part -- Creating and Editing Content with the Wordpress Default Editor**
+  * This works much the same as most word processors, and uses the standard icons, with which you can:
+    * Bold or italicize your text
+    * set the text type (different sizes of headings, plain paragraph)
+    * create ordered and unordered lists
+    * insert block quotes
+    * insert/break hyperlinks
+    * align the text (left, right, and center, but not justified)
 
 
 ---
 
-## SiteOrigin Tools
+## SiteOrigin Tools ##
 
-### Installing SiteOrigin Plugins
+### Installing SiteOrigin Plugins ###
 
 This tutorial is primarily concerned with the SiteOrigin "Page Builder" and "Widget Bundle" plugins. If you do not have these plugins installed, do so by:
 
@@ -143,7 +173,7 @@ The first two results will be "Page Builder by SiteOrigin" and "SiteOrigin Widge
 
 ---
 
-### Page Layouts with SiteOrigin 
+### Page Layouts with SiteOrigin ###
 
 Navigate to the editor of an existing page, or create a new page to play with your new SiteOrigin plugins.
 
@@ -200,7 +230,7 @@ This is what that same layout looks like in the SiteOrigin Page Builder editor:
 
 ---
 
-### SiteOrigin Content Widgets
+### SiteOrigin Content Widgets ###
 
 Now that you have a page structured using SiteOrigin Page Builder, you're ready to fill that structure with content. This is where the SiteOrigin widgets come in.
 
@@ -248,7 +278,7 @@ From the window that opens (below), you can:
   * *use the edit widget button to select and configure the content and its display properties*
 ---
 
-### SiteOrigin Editing Overview
+### SiteOrigin Editing Overview ###
 
 Just to review, below you find all the functions you might need to perform to fully exploit the SiteOrigin Page Builder and Widgets plugins for WordPress. Don't get overwhelmed by the minefield of buttons. And remember, take you website building one step at a time -- you can always change or undo anything.
 
