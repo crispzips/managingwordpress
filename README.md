@@ -110,10 +110,13 @@ After you log in, you will see your site, with the administrative interface laid
 
 You should see this:
 
-![wordpress tutorial factory default editor](/images/wordpress17.PNG)
+>![wordpress tutorial factory default editor](/images/wordpress17.PNG)
 
-####**What You See Is What You Get.**
+####**[What You See Is What You Get (WYSIWYG)](https://en.wikipedia.org/wiki/WYSIWYG)**
 
+This means that everything you can do to a WordPress page is right before your eyes (until you augment its abilities with plugins, of course; more on this later).
+
+Let's study this above image 
 
 
 ---
