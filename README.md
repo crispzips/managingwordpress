@@ -147,7 +147,62 @@ Let's study this above image.
     * insert block quotes
     * insert/break hyperlinks
     * align the text (left, right, and center, but not justified)
+  * Pay attention to the "Toolbar Toggle" button (**highlighted in green in the above image**), this brings up additional *useful* editing options, where you can:
+    * change the text color
+    * increase/decrease indents
+    * insert special characters
+    * insert a horizontal line
+    * other good stuff (play around!)
 
+Text isn't the only kind of content. The WordPress WYSIWYG (again, the stuff that comes with) allows you to import media with the "Add Media" button (camera/musical note icon) -- **highlighted in red in the above image**
+
+When you click the "Add Media" button you'll see this window open:
+
+>![wordpress tutorial insert media](/images/wordpress18.PNG)
+
+* This allows you to:
+  * Drag and Drop from or browse for files on your device
+  * "Insert from URL" to grab publicly-available media online
+  * select media already uploaded to your wordpress site directory with the "Media Library" tab
+  * You can use any media you import to:
+    * "Create Gallery" of images
+    * "Create Audio Playlist"
+    * "Create Video Playlist"
+    * Or select a "Featured Image" to represent to page visually
+    
+Let's add an image to practice.
+
+Here is an image from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) (free to use and modify!): [https://upload.wikimedia.org/wikipedia/commons/a/a7/Norman%2C_OK_USA_-_University_of_Oklahoma_-_Evans_Hall_%5E_George_Lynn_Cross_Monument_-_panoramio_%281%29.jpg]
+
+* Copy the image URL
+* In the "Add Media" window (above), click "Insert from URL" (from the lefthand menu)
+* Paste the image URL into the appropriate box at the top of the window, you'll see a preview of the image and a set of image properties pop up, like this:
+
+>![wordpress tutorial add image](/images/wordpress19.PNG)
+
+* From here you can:
+  * Set a "Caption" for the image
+  * Set the "Alt Text" for the image. This is what search engines will evaluate and what will be read to the visually-impaired when they're on your site, so this is **very important**
+  * "Align" the image (left, center, right)
+  * Set the image to "Link to" and external URL, somewhere on your site, the source of the image, or nothing.
+  
+When you've set the image's properties, click "Insert into Page" -- the blue button at the bottom-right of the window.
+
+Now the image will be displayed in the basic (WYSIWYG) editor. The caption will be underneath the image.
+
+Any content you add, either text or multimedia, will display in the editor as you arrange it. This is how the content will appear on your page after you've published it.
+
+**To Edit the Image**
+* Click on the image shown in the editor
+
+This will bring up a pop up window with a row of icons:
+* four alignment buttons (left, center, right, none)
+* an "Edit" button (pencil icon)
+* a "Remove" button ("X" icon)
+
+If you click the "Edit" button (pencil icon), you can change all of the properties we discussed above, but you can also set some **[Advanced]** properties, including CSS classes for the image and its link, or, **usefully** you can select a box to "Open link in new tab."
+
+This covers the WordPress factory default editing functionality. WordPress is a powerful composition and publishing tool, but it *is* limited. In the next section we're going to augment the capability of WordPress with the SiteOrigin plugins, with which you'll begin to fully experience what a web content management system can do.
 
 ---
 
