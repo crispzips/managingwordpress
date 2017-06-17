@@ -141,7 +141,7 @@ Let's study this above image.
   * set the page order (of appearance relative to other pages)
 * **Now for the Important Part -- Creating and Editing Content with the Wordpress Default Editor**
   * This works much the same as most word processors, and uses the standard icons, with which you can:
-    * Bold or italicize your text
+    * bold or italicize your text
     * set the text type (different sizes of headings, plain paragraph)
     * create ordered and unordered lists
     * insert block quotes
@@ -163,16 +163,16 @@ When you click the "Add Media" button you'll see this window open:
 * This allows you to:
   * Drag and Drop from or browse for files on your device
   * "Insert from URL" to grab publicly-available media online
-  * select media already uploaded to your wordpress site directory with the "Media Library" tab
+  * select media already uploaded to your WordPress site directory with the "Media Library" tab
   * You can use any media you import to:
     * "Create Gallery" of images
     * "Create Audio Playlist"
     * "Create Video Playlist"
-    * Or select a "Featured Image" to represent to page visually
+    * Or select a "Featured Image" to represent the page visually
     
 Let's add an image to practice.
 
-Here is an image from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) (free to use and modify!): [https://upload.wikimedia.org/wikipedia/commons/a/a7/Norman%2C_OK_USA_-_University_of_Oklahoma_-_Evans_Hall_%5E_George_Lynn_Cross_Monument_-_panoramio_%281%29.jpg]
+Here is an image from the [](Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) (free to use and modify!): [https://upload.wikimedia.org/wikipedia/commons/a/a7/Norman%2C_OK_USA_-_University_of_Oklahoma_-_Evans_Hall_%5E_George_Lynn_Cross_Monument_-_panoramio_%281%29.jpg)
 
 * Copy the image URL
 * In the "Add Media" window (above), click "Insert from URL" (from the lefthand menu)
