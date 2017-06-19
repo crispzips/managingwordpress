@@ -36,6 +36,7 @@ University of Oklahoma Libraries :: Digital Scholarship Lab
 *A note on this tutorial: whenever quotes are used around terms, this signifies that the term used is the term used in the WordPress user interface, and the specific buttons and functions referred to will appear that way in WordPress, so keep an eye on those if you're having difficult locating a command, WordPress can be clustered and clumsy sometimes*
 
 This tutorial assumes you have already registered with WordPress and generated a site, or had someone help you generate your first site, and now the reins are in your hands. If you haven't done so, there are lots of [great tutorials](https://www.siteground.com/tutorials/wordpress/wordpress-installation.htm) to help you with that process.
+
 ---
 
 ## The Admin View ##
