@@ -28,6 +28,7 @@ Last Updated June 2017
 Created by [Paul Vieth](http://paulkelleyvieth.org)
 
 University of Oklahoma Libraries :: Digital Scholarship Lab
+
 ---
 
 ## Getting Started ##
